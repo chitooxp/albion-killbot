@@ -7,7 +7,7 @@
   "author": "Agnaldo Junior <agnaldo.junior01@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "discord.js": "^11.5.1",
     "dotenv": "^8.2.0",
     "i18n": "^0.8.5",
